@@ -1,2 +1,2 @@
 # Observer
-An simple example how obserwer work.
+A simple example how an observer works.
